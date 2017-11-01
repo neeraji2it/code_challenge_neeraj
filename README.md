@@ -1,7 +1,6 @@
-# README
 
-Ruby version 2.3.0
-Rails version 5.1.0
+# Ruby version 2.3.0
+# Rails version 5.1.0
 
 #Installation steps:
 	1. git clone https://github.com/neeraji2it/code_challenge_neeraj.git
