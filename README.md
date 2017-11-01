@@ -6,7 +6,7 @@
 
 	1. git clone https://github.com/neeraji2it/code_challenge_neeraj.git
 
-	2. Bundle install
+	2. bundle install
 
 	3. rake db:create
 

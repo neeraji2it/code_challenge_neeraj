@@ -5,8 +5,8 @@ class Api::V1::WebDataController < ApplicationController
   #GET request
   #url: http://localhost:3000/api/v1/web_data
   def index
-    @web_data = WebData.all.select("id, h1, h2, h3, links, website")
-    render json: @web_data, status: 200
+    web_data = WebData.all.select("id, h1, h2, h3, links, website")
+    render json: web_data, status: 200
   end
   
   #POST request
