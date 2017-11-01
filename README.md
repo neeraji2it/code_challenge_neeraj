@@ -4,7 +4,7 @@ Ruby version 2.3.0
 Rails version 5.1.0
 
 #Installation steps:
-	1. git clone
+	1. git clone https://github.com/neeraji2it/code_challenge_neeraj.git
 	2. Bundle install
 	3. rake db:create
 	4. rake db:migrate
